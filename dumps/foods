@@ -1,0 +1,3 @@
+{"_id":{"$oid":"62e40dc8b3949998cc23d8cb"},"name":"Pizza Margarita","price":1000,"ingredients":["cheese","tomato"],"restaurant_id":"62e40d01b3949998cc23d8a0"}
+{"_id":{"$oid":"62e40df0b3949998cc23d8cd"},"name":"Pizza Meat","price":1400,"ingredients":["cheese","tomato","meat"],"restaurant_id":"62e40d01b3949998cc23d8a0"}
+{"_id":{"$oid":"62e4113eb3949998cc23d94f"},"name":"Adana Kebap","price":1500,"ingredients":["meat"],"restaurant_id":"62e40f53b3949998cc23d8f2"}
